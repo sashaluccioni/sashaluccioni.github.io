@@ -22,3 +22,5 @@ My research topics
 * Best practices for data collection and sharing
 
 For a complete list of publications, see my [Google Scholar page](https://scholar.google.ca/citations?user=nP8cwkIAAAAJ){:target="_blank"}.
+
+For a full academic curriculum vitae, see my [online CV](https://www.sashaluccioni.com/cv/)
