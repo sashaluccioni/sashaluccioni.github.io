@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-I am currently a Research Scientist and Climate Lead at [HuggingFace](https://huggingface.co/){:target="_blank"}, a Board Member of [Women in Machine Learning (WiML)](wimlworkshop.org/){:target="_blank"}, and a founding member of [Climate Change AI (CCAI)](https://www.climatechange.ai/){:target="_blank"}, a global initiative that aims to catalyze impactful work and build a community at the intersection of climate change and machine learning.
+I am currently a Research Scientist and Climate Lead at **[HuggingFace](https://huggingface.co/){:target="_blank"}**, a Board Member of **[Women in Machine Learning (WiML)](wimlworkshop.org/){:target="_blank"}**, and a founding member of **[Climate Change AI (CCAI)](https://www.climatechange.ai/){:target="_blank"}**, a global initiative that aims to catalyze impactful work and build a community at the intersection of climate change and machine learning.
 
 My work aims to pave the way towards a better understanding of the societal and environmental impacts of AI models, datasets and systems.
 
