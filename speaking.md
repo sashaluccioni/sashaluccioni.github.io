@@ -3,7 +3,7 @@ layout: page
 title: Speaking
 ---
 
-**I truly love giving talks and sharing what I've learned with my audience.**
+*I truly love giving talks and sharing what I've learned with my audience.*
 
 I have been working on a [slide deck](https://docs.google.com/presentation/d/1FRoyzdodKQ7-5rK--gZFFzK_-kvfhzxJQDYxpnA-6jE/edit) where I add content about Generative AI models in their historical and socio-technical context.
 

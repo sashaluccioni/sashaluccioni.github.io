@@ -2,8 +2,9 @@
 layout: page
 title: Projects
 ---
+*My work aims to pave the way towards a better understanding of the societal and environmental impacts of AI models, datasets and systems.*
 
-Some of my current projects :
+Some of my current projects are:
 ============================
 * [**Evaluating the carbon emissions of AI models**](https://huggingface.co/spaces/huggingface/Carbon-Compare) -- my longstanding project is getting a better idea of how much carbon is emitted by AI models and what are the factors that influence it - see my ["BLOOM"](https://arxiv.org/abs/2211.02001) and ["Counting Carbon"](https://arxiv.org/abs/2302.08476) articles.
 * [**Stable Diffusion Bias Explorer**](https://huggingface.co/spaces/sasha/StableDiffusionBiasExplorer) -- a demo for exploring the biases in text-to-image models like Stable Diffusion and Dall-E 2.
