@@ -99,7 +99,7 @@ keywords: "sasha luccioni, alexandra luccioni, alexandra sasha luccioni"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#EAEAEA"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
