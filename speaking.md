@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Speaking engagements
+title: Speaking
 ---
 
 **I truly love giving talks and sharing what I've learned with my audience.**
-*[Reach out](mailto:sasha.luccioni@huggingface.co) if you are looking for a keynote speaker for your next event!*
 
 Here are some examples of talks I've given previously:
 
@@ -28,3 +27,5 @@ Here are some examples of talks I've given previously:
 * [How AI can Help Climate Change // Sasha Luccioni](https://anchor.fm/are-you-a-robot/episodes/S4E2-How-AI-can-Help-Climate-Change--Sasha-Luccioni-eqea8j){:target="_blank"} - Are You a Robot? podcast
 * [Should We Let Robots Decide When to Kill?](https://getconnectedmedia.com/app-show-video-podcast-should-we-let-robots-decide-when-to-kill/){:target="_blank"} -- APP SHOW video podcast
 * [What Is AI For Good Anyways?](https://shows.acast.com/not_going_back_to_normal/episodes/what-is-ai-for-good-anyways){:target="_blank"} -- Future Positive Podcast
+
+*[Reach out](mailto:sasha.luccioni@huggingface.co) if you are looking for a keynote speaker for your next event!*
