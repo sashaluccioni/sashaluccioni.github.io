@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Community
-cover-img: /assets/img/cover_wallpaper_painted_sasha.png
+layout: page
+title: Community Work
 ---
 
 *I'm a big fan of giving back to my community, and there are several organizations that I'm involved with as a volunteer*:

@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Speaking engagement
-cover-img: /assets/img/cover_wallpaper_painted_sasha.png
+layout: page
+title: Speaking engagements
 ---
 
 ### I really love giving talks and sharing what I've learned with my audience. [Reach out](mailto:sasha.luccioni@huggingface.co) if you are looking for a keynote speaker for your next event!

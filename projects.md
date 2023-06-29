@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: Projects
-cover-img: /assets/img/cover_wallpaper_painted_sasha.png
 ---
 
 Some of my current projects :
