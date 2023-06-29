@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speaking engagement
+subtitle: Contact me
 ---
 
 If you want to get in touch, please email me at sasha.luccioni[at]huggingface.co.
