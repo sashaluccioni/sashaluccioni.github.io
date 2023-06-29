@@ -12,12 +12,12 @@ I have been called upon by organizations such as the OECD, the United Nations an
 You can contact me at: sasha.luccioni(at)huggingface.co.
 
 
-Key research topics
+My research topics
 ======
 
 * Calculating the carbon impact of AI algorithms
 * Responsible and reproducible machine learning
-* Investigating and documenting large datasets 
+* Investigating and documenting large datasets
 * Best practices for data collection and sharing
 
-For a complete list of publications, see her [Google Scholar page](https://scholar.google.ca/citations?user=nP8cwkIAAAAJ){:target="_blank"}.
+For a complete list of publications, see my [Google Scholar page](https://scholar.google.ca/citations?user=nP8cwkIAAAAJ){:target="_blank"}.
