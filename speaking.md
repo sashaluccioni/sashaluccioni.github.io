@@ -30,4 +30,4 @@ Here are some examples of talks I've given previously:
 * [Should We Let Robots Decide When to Kill?](https://getconnectedmedia.com/app-show-video-podcast-should-we-let-robots-decide-when-to-kill/){:target="_blank"} -- APP SHOW video podcast
 * [What Is AI For Good Anyways?](https://shows.acast.com/not_going_back_to_normal/episodes/what-is-ai-for-good-anyways){:target="_blank"} -- Future Positive Podcast
 
-*[Reach out](mailto:sasha.luccioni@huggingface.co) if you are looking for a keynote speaker for your next event!*
+*Please reach out to my [speaking agency](https://keyspeakers.com/bio.php?5656-Sasha) if you are looking to book me to present at your next event!*
