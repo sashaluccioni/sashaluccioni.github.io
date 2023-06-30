@@ -71,7 +71,7 @@
       {% include ext-css.html css=css %}
     {% endfor %}
   {% endif %}
-  
+
   {% if page.css %}
     {% for css in page.css %}
       <link rel="stylesheet" href="{{ css | relative_url }}">
@@ -147,6 +147,15 @@
     {% for file in page.head-extra %}
       {% include {{ file }} %}
     {% endfor %}
+  {% endif %}
+  {% else %}
+    <!-- OG data for homepage -->
+    <meta property="og:image" content="/assets/img/avatar_sasha_new.png" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{site.title}}" />
+    <meta name="twitter:image" content="/assets/img/avatar_sasha_new.png" />
+
   {% endif %}
 
 </head>
