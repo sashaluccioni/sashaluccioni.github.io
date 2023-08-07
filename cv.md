@@ -11,7 +11,7 @@ title: Curriculum Vitae
 
 ## Work experience
 ======
-* *2021 - Present*: **Research Scientist** ([Hugging Face](huggingface.co/){:target="_blank"})
+* *2021 - Present*: **Research Scientist** ([Hugging Face](https://www.huggingface.co/){:target="_blank"})
   * Working on understanding the data and techniques necessary for developing responsible Machine Learning approaches.
   * Working on analyzing the data used for training large language models, as well as quantifying the carbon footprint of AI algorithms.
   * Actively involved in the Big Science project, co-chairing the Carbon working group and participating in the Bias and Documentation working groups.
