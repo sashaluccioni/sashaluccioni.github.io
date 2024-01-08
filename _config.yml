@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-sasha_new.png"
+avatar: "/assets/img/TED-Sasha.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -91,7 +91,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "sasha luccioni, alexandra luccioni, alexandra sasha luccioni"
+keywords: "sasha luccioni, alexandra luccioni, alexandra sasha luccioni, AI researcher, AI climate, Artificial Intelligence, Montreal, PhD in AI"
 
 ######################################
 # --- Colours / background image --- #
