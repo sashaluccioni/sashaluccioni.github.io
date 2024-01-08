@@ -3,26 +3,22 @@ layout: page
 title: Speaking
 ---
 
-*I truly love giving talks and sharing what I've learned with my audience.*
+Dr. Sasha Luccioni is an inspiring keynote speaker, captivating audiences with her [TED talk](https://www.ted.com/talks/sasha_luccioni_ai_is_dangerous_but_not_for_the_reasons_you_think){:target="_blank"}, which garnered over a million views in just three months.
 
-I have been working on a [slide deck](https://docs.google.com/presentation/d/1FRoyzdodKQ7-5rK--gZFFzK_-kvfhzxJQDYxpnA-6jE/edit) where I add content about Generative AI models in their historical and socio-technical context.
-
-Here are some examples of talks I've given previously:
+### [Reach out](mailto:sasha.luccioni@huggingface.co){:target="_blank"} to invite her to speak at your event 
 
 
-### Invited Talks
+## Past Talks
 * [What is AI for Good Anyway?](https://www.youtube.com/watch?v=hewMMpo3mK0){:target="_blank"} - Keynote presentation at the 2021 AI for Good Conference
 * [Using AI to tackle Climate Change](https://www.youtube.com/watch?v=4l0z_lNSnes){:target="_blank"} - Keynote presentation at the 2020 AI for Climate Global Forum
 * [Machine Learning as a tool for positive impact: case studies from climate change](https://www.youtube.com/watch?v=LaJ5FIOCpBY){:target="_blank"} -- Sheffield Machine Learning seminar
 * [L'IA pour la planète](https://youtu.be/XI0MgNjUwDA){:target="_blank"} -- Curium Online Mag
 
-### Broadcast Media interviews
+## Broadcast Media interviews
 * [Bloomberg - Going Viral (May 2023)](https://www.youtube.com/watch?v=V4WlPZLqQq4) - Talking about the potential risks of AI.
 * [L'IA pour contrer le réchauffement climatique - L'IA et moi](https://www.youtube.com/watch?v=TmdS2JFJ9zg&pp=ygUOc2FzaGEgbHVjY2lvbmk%3D)
 
-
-
-### Podcasts
+## Podcasts
 * [Machine Learning Experts Interview - Sasha Luccioni](https://youtu.be/AQRkcMr0Zk0)
 * [The Tenth Art Podcast – This Episode is Not AI-Generated](https://www.youtube.com/watch?v=Q8FL1I-O7u8&pp=ygUOc2FzaGEgbHVjY2lvbmk%3D)
 * [Visualizing Climate Impact with GANs w/ Sasha Luccioni](https://twimlai.com/visualizing-climate-impact-with-gans-w-sasha-luccioni/){:target="_blank"} - TWIML AI Podcast
