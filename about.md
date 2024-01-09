@@ -7,7 +7,7 @@ Dr. Sasha Luccioni is a leading scientist at the nexus of artificial intelligenc
 
 In 2023, Dr. Luccioni's work was recognized by MIT Tech Review on their global ["35 Innovators Under 35 list](https://www.technologyreview.com/innovator/sasha-luccioni/){:target="_blank"} and was selected by a panel of journalists from La Presse as one of [12 Quebec influencers to keep an eye on](https://www.lapresse.ca/contexte/2023-11-26/sasha-luccioni-et-ravy-por/elles-n-ont-pas-peur-de-l-ia.php){:target="_blank"}. 
 
-Sasha is also an inspiring keynote speaker, captivating audiences with her [TED talk](https://www.ted.com/talks/sasha_luccioni_ai_is_dangerous_but_not_for_the_reasons_you_think){:target="_blank"}, which garnered over a million views in just three months. She regularly gives presentations at events ranging from [global forums](https://www.youtube.com/watch?v=4l0z_lNSnes){:target="_blank"} to [international conferences](https://www.youtube.com/watch?v=hewMMpo3mK0){:target="_blank"}, attended by thousands of people.
+Sasha is also an inspiring keynote speaker, captivating audiences with her [TED talk](https://www.ted.com/talks/sasha_luccioni_ai_is_dangerous_but_not_for_the_reasons_you_think){:target="_blank"}, which garnered over a million views in just three months. She regularly gives presentations at events ranging from [global forums](https://www.youtube.com/watch?v=4l0z_lNSnes){:target="_blank"} to [top-tier conferences](https://www.youtube.com/watch?v=hewMMpo3mK0){:target="_blank"}, which are attended by thousands of people across the world.
 
 For an up-to-date list of publications, see Sasha's [Google Scholar page](https://scholar.google.ca/citations?user=nP8cwkIAAAAJ){:target="_blank"}.
 
