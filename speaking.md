@@ -25,5 +25,3 @@ Dr. Sasha Luccioni is an inspiring keynote speaker, captivating audiences with h
 * [How AI can Help Climate Change // Sasha Luccioni](https://anchor.fm/are-you-a-robot/episodes/S4E2-How-AI-can-Help-Climate-Change--Sasha-Luccioni-eqea8j){:target="_blank"} - Are You a Robot? podcast
 * [Should We Let Robots Decide When to Kill?](https://getconnectedmedia.com/app-show-video-podcast-should-we-let-robots-decide-when-to-kill/){:target="_blank"} -- APP SHOW video podcast
 * [What Is AI For Good Anyways?](https://shows.acast.com/not_going_back_to_normal/episodes/what-is-ai-for-good-anyways){:target="_blank"} -- Future Positive Podcast
-
-*Please reach out to my [speaking agency](https://keyspeakers.com/bio.php?5656-Sasha) if you are looking to book me to present at your next event!*
