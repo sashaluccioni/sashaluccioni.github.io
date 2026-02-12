@@ -11,5 +11,5 @@ For an up-to-date list of publications, see Sasha's [Google Scholar page](https:
 
 For a full academic curriculum vitae, see her [online CV](https://www.sashaluccioni.com/cv/)
 
-**You can contact her at: sashavluccioni@gmail.com**
+**You can contact her at: sashavluccioni[at]gmail.com**
 
